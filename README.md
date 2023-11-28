@@ -28,9 +28,7 @@
 ## Highlights
 
 - The license has been updated to Apache 2.0, and we've removed the non-commercial restriction
-- 
-- We've published research paper. Check out more details [here](docs/webui_extension.md). [Demo Video](https://user-images.githubusercontent.com/4397546/231495639-5d4bb925-ea64-4a36-a519-6389917dac29.mp4)
-
+- We've published research paper. 
 - Full image mode is now available! [More details...](https://github.com/OpenTalker/SadTalker#full-bodyimage-generation)
 
 | still+enhancer in v0.0.1                 | still + enhancer   in v0.0.2       |   [input image @bagbag1815](https://twitter.com/bagbag1815/status/1642754319094108161) |
@@ -38,8 +36,6 @@
 | <video  src="https://user-images.githubusercontent.com/48216707/229484996-5d7be64f-2553-4c9e-a452-c5cf0b8ebafe.mp4" type="video/mp4"> </video> | <video  src="https://user-images.githubusercontent.com/4397546/230717873-355b7bf3-d3de-49f9-a439-9220e623fce7.mp4" type="video/mp4"> </video>  | <img src='./examples/source_image/full_body_2.png' width='380'> 
 
 - Several new modes (Still, reference, and resize modes) are now available!
-
-- We're happy to see more community demos on [bilibili](https://search.bilibili.com/all?keyword=sadtalker), [YouTube](https://www.youtube.com/results?search_query=sadtalker) and [X (#sadtalker)](https://twitter.com/search?q=%23sadtalker&src).
 
 ## Changelog 
 
@@ -69,17 +65,13 @@ If you have any problems, please read our [FAQs](docs/FAQ.md) before opening an 
 
 
 
-## 1. Installation.
-
-Community tutorials: [中文Windows教程 (Chinese Windows tutorial)](https://www.bilibili.com/video/BV1Dc411W7V6/) | [日本語コース (Japanese tutorial)](https://br-d.fanbox.cc/posts/5685086).
-
 ### Linux/Unix
 
 1. Install [Anaconda](https://www.anaconda.com/), Python and `git`.
 
 2. Creating the env and install the requirements.
   ```bash
-  git clone https://github.com/OpenTalker/SadTalker.git
+  git clone https://github.com/Animated-vedios-Generation-Crafting-Lifelike-3D-Talking-Faces-from-Static-Images-and-Sound.git
 
   cd SadTalker 
 
