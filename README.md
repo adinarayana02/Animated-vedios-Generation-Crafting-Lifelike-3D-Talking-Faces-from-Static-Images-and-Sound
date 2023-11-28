@@ -37,23 +37,7 @@
 
 - Several new modes (Still, reference, and resize modes) are now available!
 
-## Changelog 
 
-The previous changelog can be found [here](docs/changlelog.md).
-
-- __[2023.06.12]__: Added more new features in WebUI extension, see the discussion [here](https://github.com/OpenTalker/SadTalker/discussions/386).
-
-- __[2023.06.05]__: Released a new 512x512px (beta) face model. Fixed some bugs and improve the performance.
-
-- __[2023.04.15]__: Added a WebUI Colab notebook by [@camenduru](https://github.com/camenduru/): [![sd webui-colab](https://img.shields.io/badge/Automatic1111-Colab-green)](https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/main/video/stable/stable_diffusion_1_5_video_webui_colab.ipynb)
-
-- __[2023.04.12]__: Added a more detailed WebUI installation document and fixed a problem when reinstalling.
-
-- __[2023.04.12]__: Fixed the WebUI safe issues becasue of 3rd-party packages, and optimized the output path in `sd-webui-extension`.
-
-- __[2023.04.08]__: In v0.0.2, we added a logo watermark to the generated video to prevent abuse. _This watermark has since been removed in a later release._
-
-- __[2023.04.08]__: In v0.0.2, we added features for full image animation and a link to download checkpoints from Baidu. We also optimized the enhancer logic.
 
 ## To-Do
 
@@ -122,7 +106,7 @@ We also provide an offline patch (`gfpgan/`), so no model will be downloaded whe
 
 * [Google Drive](https://drive.google.com/file/d/1gwWh45pF7aelNP_P78uDJL8Sycep-K7j/view?usp=sharing)
 * [GitHub Releases](https://github.com/OpenTalker/SadTalker/releases)
-* [Baidu (百度云盘)](https://pan.baidu.com/s/1kb1BCPaLOWX1JJb9Czbn6w?pwd=sadt) (Password: `sadt`)
+* [Baidu ](https://pan.baidu.com/s/1kb1BCPaLOWX1JJb9Czbn6w?pwd=sadt) (Password: `sadt`)
 
 <!-- TODO add Hugging Face links -->
 
@@ -150,27 +134,6 @@ Model explains:
 |gfpgan/weights | Face detection and enhanced models used in `facexlib` and `gfpgan`.
   
   
-##### Old version
-| Model | Description
-| :--- | :----------
-|checkpoints/auido2exp_00300-model.pth | Pre-trained ExpNet in Sadtalker.
-|checkpoints/auido2pose_00140-model.pth | Pre-trained PoseVAE in Sadtalker.
-|checkpoints/mapping_00229-model.pth.tar | Pre-trained MappingNet in Sadtalker.
-|checkpoints/mapping_00109-model.pth.tar | Pre-trained MappingNet in Sadtalker.
-|checkpoints/facevid2vid_00189-model.pth.tar | Pre-trained face-vid2vid model from [the reappearance of face-vid2vid](https://github.com/zhanglonghao1992/One-Shot_Free-View_Neural_Talking_Head_Synthesis).
-|checkpoints/epoch_20.pth | Pre-trained 3DMM extractor in [Deep3DFaceReconstruction](https://github.com/microsoft/Deep3DFaceReconstruction).
-|checkpoints/wav2lip.pth | Highly accurate lip-sync model in [Wav2lip](https://github.com/Rudrabha/Wav2Lip).
-|checkpoints/shape_predictor_68_face_landmarks.dat | Face landmark model used in [dilb](http://dlib.net/). 
-|checkpoints/BFM | 3DMM library file.  
-|checkpoints/hub | Face detection models used in [face alignment](https://github.com/1adrianb/face-alignment).
-|gfpgan/weights | Face detection and enhanced models used in `facexlib` and `gfpgan`.
-
-The final folder will be shown as:
-
-<img width="331" alt="image" src="https://user-images.githubusercontent.com/4397546/232511411-4ca75cbf-a434-48c5-9ae0-9009e8316484.png">
-
-
-</details>
 
 ## 3. Quick Start
 
