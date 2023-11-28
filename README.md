@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src='https://user-images.githubusercontent.com/4397546/229094115-862c747e-7397-4b54-ba4a-bd368bfe2e0f.png' width='500px'/>
+<img src='https://www.canva.com/design/DAFnLqBwRy8/dtGmMpKG2bgNizm4ub2qFA/view?utm_content=DAFnLqBwRy8&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink' width='500px'/>
 
 
 <!--<h2> 😭 SadTalker： <span style="font-size:12px">Learning Realistic 3D Motion Coefficients for Stylized Audio-Driven Single Image Talking Face Animation </span> </h2> -->
