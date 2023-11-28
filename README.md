@@ -114,7 +114,7 @@ We also provide an offline patch (`gfpgan/`), so no model will be downloaded whe
 
 * [Google Drive](https://drive.google.com/file/d/19AIBsmfcHW6BRJmeqSFlG5fL445Xmsyi?usp=sharing)
 * [GitHub Releases](https://github.com/OpenTalker/SadTalker/releases)
-* [Baidu (百度云盘)](https://pan.baidu.com/s/1P4fRgk9gaSutZnn8YW034Q?pwd=sadt) (Password: `sadt`)
+* [Baidu ](https://pan.baidu.com/s/1P4fRgk9gaSutZnn8YW034Q?pwd=sadt) (Password: `sadt`)
 
 <!-- TODO add Hugging Face links -->
 
