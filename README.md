@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src='https://www.canva.com/design/DAFnLqBwRy8/dtGmMpKG2bgNizm4ub2qFA/view?utm_content=DAFnLqBwRy8&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink' width='500px'/>
+<img src='"C:\Users\Adi Narayana Thota\OneDrive\Desktop\SadTalker-main\docs\A letter tech logo.png"' width='500px'/>
 
 
 <!--<h2> 😭 SadTalker： <span style="font-size:12px">Learning Realistic 3D Motion Coefficients for Stylized Audio-Driven Single Image Talking Face Animation </span> </h2> -->
