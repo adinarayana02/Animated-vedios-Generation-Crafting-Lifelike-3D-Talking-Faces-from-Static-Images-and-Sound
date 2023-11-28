@@ -183,18 +183,7 @@ python inference.py --driven_audio <audio.wav> \
 
 More examples and configuration and tips can be founded in the [ >>> best practice documents <<<](docs/best_practice.md).
 
-## Citation
 
-If you find our work useful in your research, please consider citing:
-
-```bibtex
-@article{zhang2022sadtalker,
-  title={SadTalker: Learning Realistic 3D Motion Coefficients for Stylized Audio-Driven Single Image Talking Face Animation},
-  author={Zhang, Wenxuan and Cun, Xiaodong and Wang, Xuan and Zhang, Yong and Shen, Xi and Guo, Yu and Shan, Ying and Wang, Fei},
-  journal={arXiv preprint arXiv:2211.12194},
-  year={2022}
-}
-```
 
 ## Acknowledgements
 
